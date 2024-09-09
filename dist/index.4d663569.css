@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: #fff;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+/*# sourceMappingURL=index.4d663569.css.map */
